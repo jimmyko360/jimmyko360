@@ -1,7 +1,7 @@
 ### Hi there, thanks for stopping by! 👋
 - 📫 How to reach me:
-[![Gmail](https://img.shields.io/badge/Jimmy%20Ko-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:ko.jimmy09@gmail.com)](mailto:ko.jimmy09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Jimmy%20Ko-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jyk360/)](https://www.linkedin.com/in/jyk360/)
+[![Gmail](https://img.shields.io/badge/Jimmy%20Ko-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:ko.jimmy09@gmail.com&target="_blank")](mailto:ko.jimmy09@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Jimmy%20Ko-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jyk360/&target="_blank")](https://www.linkedin.com/in/jyk360/)
 
 <!--
 **jimmyko360/jimmyko360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
