@@ -5,6 +5,7 @@
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Sass](https://img.shields.io/badge/Sass%20-%231582B7.svg?&style=flat-square&logo=Sass&logoColor=pink)
 ![Axios](https://img.shields.io/badge/-Axios-blueviolet)
 ![Babel](https://img.shields.io/badge/-babel-yellow)
