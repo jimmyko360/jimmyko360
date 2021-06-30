@@ -1,4 +1,4 @@
-### Hi there, thanks for stopping by! 👋
+### Hey, thanks for stopping by! 👋
 
 ### Within my projects, you'll find:
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
